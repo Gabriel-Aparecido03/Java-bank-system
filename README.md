@@ -1,6 +1,6 @@
 # Simulador de Caixa Eletrônico em JAVA
 
-<img src="Desktop - 1.svg" alt="imagem simples do sistema" />
+<img src="Desktop - 1(1).svg " alt="imagem simples do sistema" />
      
 ### Ajustes e melhorias
      
